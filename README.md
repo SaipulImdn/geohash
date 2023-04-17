@@ -1,5 +1,7 @@
 ##geohash
 
+
+Instagram : @SaipulImdn
 geohash algorithm: http://en.wikipedia.org/wiki/Geohash
 
 ~~~ go
